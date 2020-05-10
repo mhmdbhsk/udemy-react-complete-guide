@@ -1,0 +1,18 @@
+.App {
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 82%;
+  padding: 16px;
+  font-size: 16px;
+  font-weight: bold;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: beige;
+}
